@@ -177,6 +177,9 @@ But I wasnt lucky to find the solution...
 ## pickledolives
 Your tutorial is missing the point, that you need to register your service in the Android manifest file under the application tab.
 
+## IwaMessier111
+Even if the service is still running my added views disappear when the application is closed. Any solutions?
+
 <!--
 
 To comment, copy and paste the following block
